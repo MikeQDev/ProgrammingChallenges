@@ -1,0 +1,4 @@
+this is a text file. it is in all lower case letters
+because a program is supposed to convert the
+contents in this file to all caps and save the file
+with another name

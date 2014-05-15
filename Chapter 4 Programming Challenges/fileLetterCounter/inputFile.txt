@@ -1,0 +1,5 @@
+Hello, this is a text file.
+It contains some random text.
+This text will be used to count
+the amount of times the specificified
+character will appear in this file.

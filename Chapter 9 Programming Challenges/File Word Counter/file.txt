@@ -1,0 +1,1 @@
+Hello. This is a text file. The program I wrote is supposed to calculate the amount of words in this file.
